@@ -19,6 +19,6 @@ public class SaveController {
 	{
 		si.saveEmpData(e);
 		
-		return "Data Save zala tumcha";
+		return "Data Saved";
 	}
 }
